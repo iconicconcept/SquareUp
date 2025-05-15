@@ -3,7 +3,7 @@ import logo from "../assets/LogoText.svg"
 import menu from "../assets/toggle.svg"
 import { Link } from "react-router-dom"
 
-const Header = () => {
+const Headers = () => {
     const [show, setShow] = useState(false)
 
     const toggleMenu = ()=>{
@@ -42,4 +42,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Headers

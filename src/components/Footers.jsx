@@ -12,7 +12,7 @@ import location from "../assets/location.svg"
 import Aos from 'aos'
 import "aos/dist/aos.css"
 
-const Footer = () => {
+const Footers = () => {
     useEffect(()=>{
           Aos.init({
             duration: 1300
@@ -56,4 +56,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footers

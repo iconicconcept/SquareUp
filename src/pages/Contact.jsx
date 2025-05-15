@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
 import { useEffect } from 'react'
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Header from '../components/Headers'
+import Footer from '../components/Footers'
 import call from "../assets/call.svg"
 import location from "../assets/location.svg"
 import email from "../assets/email.svg"

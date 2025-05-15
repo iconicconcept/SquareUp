@@ -1,7 +1,7 @@
 import React from 'react'
 import { useEffect } from 'react'
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Header from '../components/Headers'
+import Footer from '../components/Footers'
 import AboutImage from "../assets/aboutImage.svg"
 import logo from "../assets/Logo.svg"
 

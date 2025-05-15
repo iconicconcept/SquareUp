@@ -2,8 +2,8 @@ import React from 'react'
 import { useEffect } from 'react'
 import { useState } from 'react'
 import { Link } from "react-router-dom"
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Header from '../components/Headers'
+import Footer from '../components/Footers'
 import zapier from "../assets/Zapier.svg"
 import spotify from "../assets/spotify.svg"
 import zoom from "../assets/zoom.svg"

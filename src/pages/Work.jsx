@@ -1,7 +1,7 @@
 import React from 'react'
 import { useEffect } from 'react'
-import Header from '../components/header'
-import Footer from '../components/footer'
+import Header from '../components/Headers'
+import Footer from '../components/Footers'
 import first from "../assets/first.svg"
 import third from  "../assets/third.svg"
 import second from "../assets/second.svg"
