@@ -85,7 +85,7 @@ const Home = () => {
       <Header />
 
       <section className='h-[70vh] lg:h-[80vh] w-[100%] md:h-[100vh] py-3 flex flex-col items-center pt-30 gap-7 px-4 home text-white'>
-        <h1 className='text-[30px] text-center' data-aos="fade-up">A Digital Product Studio that will Work</h1>
+        <h1 className='text-[30px] text-center' data-aos="fade-up">A Digital Product Studio that Work</h1>
           <h3 className='text-[17px] text-center leading-8 px-3 py-2 bg-green-600 rounded-[9px]' data-aos="fade-up">For <span className='ml-1 md:px-2 lg:px-2 rounded md:bg-green-800 lg:bg-green-800'>StartUp</span>, 
           <span className='md:px-2 lg:px-2 rounded md:bg-green-800 lg:bg-green-800 ml-1'>Enterprises Leader</span>,
           <span className='md:px-2 lg:px-2 rounded md:bg-green-800 lg:bg-green-800 ml-1'>Media & Publisher</span> and 
